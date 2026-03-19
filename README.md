@@ -24,4 +24,4 @@
 
 ![Sales by Day](Sales_by_day.png)
 ![Tips by Time](tips_by_time.png)
-![Dashboard](E-Commerce Sales & Tips Dashboard.png)
+![Dashboard](Dashboard.png)
