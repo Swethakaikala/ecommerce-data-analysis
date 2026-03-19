@@ -1,26 +1,25 @@
-# 🚀 E-Commerce Data Analysis Project
+## 📊 Key Insights
 
-## 📊 Project Overview
-This project focuses on analyzing e-commerce sales data to identify key business insights such as top-performing products, sales trends, and regional performance.
+- Sales are highest on Saturday and Sunday
+- Dinner time generates higher tips compared to lunch
+- Weekend sales are higher than weekdays
 
-## 🛠️ Tools & Technologies
-- Excel (Data Cleaning)
-- Tableau (Data Visualization)
-- SQL (Data Analysis - Learning)
+## 🎯 What I Learned
 
-## 📈 Key Objectives
-- Analyze total sales and revenue trends  
-- Identify top-performing products  
-- Understand monthly sales patterns  
-- Evaluate regional performance  
+- Data cleaning and preparation using Excel
+- Creating Pivot Tables for analysis
+- Identifying trends and patterns in data
+- Building charts for visualization
+- Understanding business insights from data
 
-## 📷 Dashboard (Coming Soon)
-Dashboard visualization will be added soon.
+## 💡 Why This Project is Useful
 
-## 🚀 Project Status
-Currently in progress. Data cleaning and dashboard creation are underway.
+- Helps understand customer behavior and sales trends
+- Demonstrates data analysis and visualization skills
+- Useful for making business decisions
+- Strong portfolio project for Data Analyst roles
 
-## 💡 Future Improvements
-- Add SQL queries  
-- Build interactive Tableau dashboard  
-- Add business insights and recommendations  
+## 📸 Dashboard
+
+![Sales by Day](sales_by_day.png)
+![Tips by Time](tips_by_time.png)
