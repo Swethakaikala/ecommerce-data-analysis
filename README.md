@@ -19,7 +19,8 @@
 - Useful for making business decisions
 - Strong portfolio project for Data Analyst roles
 
+
 ## 📸 Dashboard
 
-![Sales by Day](sales_by_day.png)
+![Sales by Day](Sales_by_day.png)
 ![Tips by Time](tips_by_time.png)
